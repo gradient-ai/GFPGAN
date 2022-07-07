@@ -8,6 +8,8 @@
 [![python lint](https://github.com/TencentARC/GFPGAN/actions/workflows/pylint.yml/badge.svg)](https://github.com/TencentARC/GFPGAN/blob/master/.github/workflows/pylint.yml)
 [![Publish-pip](https://github.com/TencentARC/GFPGAN/actions/workflows/publish-pip.yml/badge.svg)](https://github.com/TencentARC/GFPGAN/blob/master/.github/workflows/publish-pip.yml)
 
+# This repo has been updated to work with release: 1.3
+
 [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/ml-showcase/notebook/rse025o4eyoduxx?file=Run-GFPGAN.ipynb)
 
 This repo is for readers from the blogpost linked here: blog.paperspace.com/restoring-old-photos-using-gfp-gan/
