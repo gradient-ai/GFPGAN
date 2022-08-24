@@ -10,7 +10,7 @@
 
 # This repo has been updated to work with release: 1.3
 
-[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/ml-showcase/notebook/rse025o4eyoduxx?file=Run-GFPGAN.ipynb)
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/GFPGAN/blob/master/Run-GFPGAN.ipynb?machine=Free-GPU)
 
 This repo is for readers from the blogpost linked here: blog.paperspace.com/restoring-old-photos-using-gfp-gan/
 
